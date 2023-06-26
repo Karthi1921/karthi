@@ -1,0 +1,64 @@
+h1{
+    color: blue;
+    
+}
+.o{
+    color:aliceblue;
+    background-color:blue;
+    margin-top: -25px;
+    margin-left: 5px;
+    width: 125px;
+    font-size: 11px;
+    font-style:italic;
+}
+h3{
+    color: deeppink;
+    font-style:normal;
+}
+p{
+    color:blueviolet;
+}
+ul{
+    color:blueviolet;
+}
+h4{
+    color: deeppink;
+}
+p1{
+    color:deeppink;
+}
+.b ul{
+    list-style: none;
+}
+.b{
+    text-decoration: underline;
+
+    color: rgb(0, 110, 255);
+}
+table , th,td{
+    border: 1px solid black;
+
+}
+table{
+    border-collapse: collapse;
+
+}
+td{
+    color: red;
+    
+}
+th{
+    color: blueviolet;
+    background-color: coral;
+}
+hr{
+    border-color: deeppink;
+}
+.l p{
+    color:brown;
+    margin-top: -10px;
+}
+/*body{
+    background-image:url(pexels-tracy-le-blanc-607812.jpg);
+    background-size:cover;
+}*/
